@@ -1,4 +1,4 @@
-# Real Estate-Investment---Prediction and Risk Anaalysis
+# Real Estate-Investment---Prediction and Risk Analysis
 
 
 ## Introduction:
